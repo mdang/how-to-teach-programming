@@ -6,6 +6,8 @@ Notes from **How to Teach Programming (And Other Things)** by Greg Wilson
 
 Pause for a moment to think about the most influential teacher you've had. What made them different? What was it about their class or style that impacted you so much? 
 
+> People don't actually want to program: they want to make music or compare changes to zoning laws with family incomes, and rightly regard programming as a tax they have to pay in order to do so.
+
 ## Helping Novices Build Mental Models
 
 ### Who are your learners?
@@ -86,12 +88,91 @@ Persistent, theoretically impossible to fill in our lifetime, slow to access. Yo
 
 Our minds can store larger numbers of facts in short-term memory by creating chunks. For example, most of us will remember a word we read as a single item, rather than as a sequence of letters. 
 
+One key finding in cognition research is that experts have more and larger chunks in short-term memory than non-experts. Experts "see" larger patterns, and have more patterns to match against. This allows them to reason at a higher level, and to search for information more quickly and accurately.
+
 ## Cognitive Load
 
+Research shows that *inquiry-based learning* actually doesn't work well. Inquiry-based learning is the practice of allowing learners to ask their own questions, set their own goals, and find their own path as they would in real life. It's found to overload learners, searching for a solution strategy is an extra burden on top of applying that strategy. 
 
+### Faded Examples
 
+> Also referred to as **scaffolding** exercises. 
 
+1. Demonstrate the solution strategy
+2. The next problem is of the same type but has more blanks and so on until the learner has to solve the problem in its entirety. 
 
+Faded examples work because they introduce the problem-solving strategy piece by piece. This is less intimidating than a blank screen or blank sheet of paper. It also encourages learners to think about the similarities and differences between various approaches, which helps create the linkages in the mental model that instructors want them to form. 
+
+#### Split Attention Effect 
+
+Linguistic and visual input are processed by different parts of the brain, and linguistic and visual memories are stored seperately as well. **When someone reads something while hearing it spoken aloud, their brain can't help but check that it's getting the same information on both channels.**
+
+Learning is therefore more effective when redundant information is not presented simultaneously in two different channels. For example, people find it harder to learn from a video that has both narration and on-screen captions than when it only includes one or the other. 
+
+> It's more effective to draw a diagram piece by piece while teaching than to present the entire diagram at once. 
+
+## Designing Lessons
+
+Take a "teach most immediately useful first" approach. Have learners do something that they think is useful in their daily work within a few minutes of starting a lesson. This not only motivates them, it also helps build their confidence in us. 
+
+Try approaching designing lessons like we would with TDD, figure out the intended outcome and work backwards to create the lesson. 
+
+1. Figure out who you are trying to teach and what will appeal to them.
+2. Draw [concept maps](http://www.cmu.edu/teaching/assessment/howto/assesslearning/conceptmaps.html) to describe the mental model you want them to construct.
+3. Create a summative assessment like a final exercise or exam that shows a learning took place.
+4. Create formative assessments that will give learners a chance to practice the things that they are expected to be able to answer in the summative assessment
+5. Write just enough to get learners from one formative assessment to another.
+
+#### Build Lessons by Subtracting Complexity
+
+One way to build a programming lesson is by writing the program you want learners to finish with, and removing the most complex part and making it the final exercise. Remove other pieces as formative assessments and with anything remaining make it starter code. 
+
+### Learning Objectives
+
+A good learning objective has a *measureable* or *verifiable verb* that states what the learner will do, and specifies the *criteria for acceptable performance*. 
+
+Bloom's taxonomy can help in writing good learning objectives, it defines the levels of understanding in a way that is hierarchical, measurable and cross-cultural. 
+
+* Knowledge: recalling learned information 
+  - `name`, `define`
+* Comprehension: explaining the meaning of information
+  - `explain`, `recognize`
+* Application: applying what one knows to concrete situations
+  - `demonstrate`, `use`
+* Analysis: breaking a whole into its component parts and explaining how each part contributes to the whole
+  - `differentiate`, `compare`
+* Synthesis: assembling components to form a new and integrated whole
+  - `design`, `organize`
+* Evaluation: using evidence to make judgments of ideas and materials 
+  - `choose`, `select`
+
+## Motivation and Demotivation
+
+> Learners respond to an instructor's enthusiasm, and an instructor needs to care about a topic in order to keep teaching it. If learners don't believe an instructor cares about a lesson, they won't either. 
+
+### Demotivation
+
+The three most powerful demotivators are: 
+
+- Unpredictability: If there's no reliable connection between what you do and the outcome, then why try? 
+- Indifference: If students believe the instructor doesn't care then why should they? 
+- Unfairness: Even if it's unfair in their favor they will worry that one day they'll be on the other end of it. 
+
+### Imposter Syndrome
+
+Imposter Syndrome is the belief that one is not good enough for a job or position, that one's achievements are lucky flukes, and an accompanying fear of being "found out". 
+
+We rarely see the struggles of others, only their finished work, which can feed the belief that everyone else finds it easy. 
+
+As an instructor, you can help people with imposter syndrome by: 
+
+- Sharing stories of mistakes you've made or things you struggled to learn). Being open makes it easier to build trust and make them feel it's ok to ask questinons.
+- Emphasize that you want questions, it's more important to *be* smart than to *look* smart.
+
+### Mindset
+
+- Fixed Mindset: Belief that competence in some area is instrinsic. If you don't get it at first than you must not have the aptitude, which biases future performance. (e.g. You did a good job, you must be very smart.)
+- Growth Mindset: Belief that a skill is learned and can be improved. (e.g. You did a good job, you must have worked very hard.)
 
 
 
