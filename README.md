@@ -4,9 +4,15 @@ Notes from **How to Teach Programming (And Other Things)** by Greg Wilson
 
 ### Preparation
 
-Pause for a moment to think about the most influential teacher you've had. What made them different? What was it about their class or style that impacted you so much? 
+> Pause for a moment to think about the most influential teacher you've had. What made them different? What was it about their class or style that impacted you so much? 
 
 > People don't actually want to program: they want to make music or compare changes to zoning laws with family incomes, and rightly regard programming as a tax they have to pay in order to do so.
+
+> Teaching is theater not cinema. **Neal Davis**
+
+> Teaching is a performance art, just like drama, music, and athletics.
+
+> You can't help everyone, but you can always help someone.
 
 ## Helping Novices Build Mental Models
 
@@ -127,6 +133,8 @@ Try approaching designing lessons like we would with TDD, figure out the intende
 
 One way to build a programming lesson is by writing the program you want learners to finish with, and removing the most complex part and making it the final exercise. Remove other pieces as formative assessments and with anything remaining make it starter code. 
 
+> Modifying existing code instead of writing new code doesn't just give them structure, it's also more realistic.
+
 ### Learning Objectives
 
 A good learning objective has a *measureable* or *verifiable verb* that states what the learner will do, and specifies the *criteria for acceptable performance*. 
@@ -174,7 +182,20 @@ As an instructor, you can help people with imposter syndrome by:
 - Fixed Mindset: Belief that competence in some area is instrinsic. If you don't get it at first than you must not have the aptitude, which biases future performance. (e.g. You did a good job, you must be very smart.)
 - Growth Mindset: Belief that a skill is learned and can be improved. (e.g. You did a good job, you must have worked very hard.)
 
+## Live Coding
 
+Live coding works better than reading off slides because: 
+
+- Watching a program being written is more compelling than watching someone page through slides of the same bits of code over and over
+- It enables instructors to be more responsive to "what if" questions. A slide deck is a railway track, live coding allows instructors to go off road. 
+- It facilitates lateral knowledge transfer: people learn more by watching *how* instructors do things
+- It forces the instructor to slow down, they can't go 10 times faster than their learners with slides
+- Learners get to see instructors' mistakes and how to diagnose and correct them
+- Watching instructors make mistakes shows learners that it's all right to make mistakes of their own 
+
+## Teachiing Methods
+
+**Peer Instruction** - Teaching method where an instructor poses a question and then students commit to a first answer, discuss answers with their peers, and commit to a (revised) answer.
 
 
 
