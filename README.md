@@ -193,7 +193,7 @@ Live coding works better than reading off slides because:
 - Learners get to see instructors' mistakes and how to diagnose and correct them
 - Watching instructors make mistakes shows learners that it's all right to make mistakes of their own 
 
-## Teachiing Methods
+## Teaching Methods
 
 **Peer Instruction** - Teaching method where an instructor poses a question and then students commit to a first answer, discuss answers with their peers, and commit to a (revised) answer.
 
