@@ -201,7 +201,7 @@ Live coding works better than reading off slides because:
 
 Strategy | Description
 --- | ---
-3‐2‐1/Fist to Five/Thumbs Up, Thumbs Down | Students communicate their level of understanding using their fingers
+3‐2‐1 / Fist to Five / Thumbs Up, Thumbs Down | Students communicate their level of understanding using their fingers
 
 
 
