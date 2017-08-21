@@ -202,8 +202,17 @@ Live coding works better than reading off slides because:
 Strategy | Description
 --- | ---
 Fist to Five / Thumbs Up, Thumbs Down | Students communicate their level of understanding using their fingers
-asdfasf | t34gasdfasdf
+4‐3‐2‐1 Scoring Scale | Works for written assignments, have students self assess how it went from 4 to 1 
+Capacity Matrix | Have students break down topic areas into steps for achieving a particular result. It identifies tasks, knowledge levels, and understanding of a topic area 
+Circle, Triangle, Square | (Circle) Something that is still going around in your head. (Triangle) Something pointed that stood out in your mind. (Square) Something that "squared" or agreed with your thinking
+Entrance/Exit Tickets | Students is given a ticket before leaving to answer "What is the most important thing I learned today?", "What questions do I still have?"
+Every Pupil Response | Each student receives a pink and yellow card. Each color represents a specific response. Students rais the card to provide the correct response to a question
+Example/Non-Example | Given a concept, students sort or write various examples/non-examples
+Give One, Get One | Cooperative activity where students write response to prompt, meet up with another student and share ideas 
+Project Study Group | Analyze incorrect responses in multiple choice questions
+Timed Pair Share | Given a prompt, students pair up and share their perspective for a given amount of time
 
+Source: [http://nelearn.myelearning.org/pluginfile.php/439/mod_page/content/17/strategies.pdf](http://nelearn.myelearning.org/pluginfile.php/439/mod_page/content/17/strategies.pdf)
 
 
 
